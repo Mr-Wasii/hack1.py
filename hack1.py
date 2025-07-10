@@ -66,7 +66,7 @@ class Main:
 		__WASIM = input("\n\033[0;91m>>> \033[0;92m CHOOSE \033[0m: ")
 		if __WASIM in ["", " "]:
 			Main()
-		elif __WAASIM in ["1", "01"]:
+		elif __WASIM in ["1", "01"]:
 			self.fbtua()
 		else:
 			exit()
