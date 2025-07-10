@@ -63,8 +63,8 @@ class Main:
 		print("")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s[Just-Now-Open]"%(P,G,R,Y,B))
 		print(" \033[1;96m[2] EXIT")
-		__JISAN = input("\n\033[0;91m>>> \033[0;92m CHOOSE \033[0m: ")
-		if __JISAN in ["", " "]:
+		__WASIM = input("\n\033[0;91m>>> \033[0;92m CHOOSE \033[0m: ")
+		if __WASIM in ["", " "]:
 			Main()
 		elif __WAASIM in ["1", "01"]:
 			self.fbtua()
